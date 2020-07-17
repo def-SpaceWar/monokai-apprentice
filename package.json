@@ -2,10 +2,24 @@
     "name": "monokai-apprentice",
     "displayName": "Monokai's Apprentice",
     "description": "A theme a lot meant for monokai users but also has great syntax highlighting that people have always wanted.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.47.0"
     },
+    "publisher": "AryanAhire",
+    "author": {
+        "name": "Aryan Ahire"
+    },
+    "homepage": "https://github.com/def-SpaceWar/monokai-apprentice",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/def-SpaceWar/monokai-apprentice"
+    },
+    "bugs": {
+        "url": "https://github.com/def-SpaceWar/monokai-apprentice/issues"
+    },
+    "icon": "icon.png",
+    "license": "GPLv3",
     "categories": [
         "Themes"
     ],
