@@ -57,7 +57,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#EB3D54"
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -74,20 +74,19 @@
 		{
 			"name": "Operator, Misc",
 			"scope": [
-				"keyword.control",
 				"constant.other.color",
 				"meta.tag",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
+				"punctuation.section.embedded",
+				"keyword.other.template",
+				"keyword.other.substitution",
 				"punctuation.definition.tag.html",
 				"punctuation.definition.tag.begin.html",
 				"punctuation.definition.tag.end.html",
-				"punctuation.section.embedded",
-				"keyword.other.template",
-				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#EB3D54"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -117,10 +116,10 @@
 		{
 			"name": "Block Level Variables",
 			"scope": [
-				"meta.block variable.other"
+				"meta.block variable.other",
 			],
 			"settings": {
-				"foreground": "#EB3D54"
+				"foreground": "#fff"
 			}
 		},
 		{
@@ -635,6 +634,6 @@
 			"settings": {
 				"foreground": "#ffffff"
 			}
-		}
+		},
 	]
 }

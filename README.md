@@ -7,7 +7,7 @@ Monokai's Apprentice a VS Code theme that is for old monokai users or people tha
 ## Python
 
 <img src='./screenshots/python.png' />
-If you wannt to get rid of the blue parentheses get the brackets colorizer extension and set all the colors to white
+If you want to get rid of the blue parentheses get the brackets colorizer extension and set all the colors to white
 so it'll look much nicer.
 
 ## C++
