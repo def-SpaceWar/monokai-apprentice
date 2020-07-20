@@ -27,6 +27,8 @@ so it'll look much nicer.
 
 <img src='./screenshots/javascript.png' />
 
+So far I wasn't able to change the color of the ${} but it will be changed soon!
+
 ## CSS
 
 <img src='./screenshots/css.png' />
