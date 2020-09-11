@@ -26,14 +26,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Monokai's Apprentice",
+        "label": "Monokai's Apprentice Default",
         "uiTheme": "vs-dark",
         "path": "./themes/Monokai's Apprentice-color-theme.json"
       },
       {
-        "label": "Material Monokai's Apprentice",
+        "label": "Monokai's Apprentice Material",
         "uiTheme": "vs-dark",
         "path": "./themes/Material Monokai's Apprentice-color-theme.json"
+      },
+      {
+        "label": "Monokai's Apprentice Atom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Atom Monokai's Apprentice-color-theme.json"
       }
     ]
   }
