@@ -2,7 +2,7 @@
   "name": "monokai-apprentice",
   "displayName": "Monokai's Apprentice",
   "description": "A theme a lot meant for monokai users but also has great syntax highlighting that people have always wanted.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "engines": {
     "vscode": "^1.47.0"
   },
@@ -26,9 +26,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Monokai's Apprentice Default",
+        "label": "Monokai's Apprentice Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Monokai's Apprentice-color-theme.json"
+        "path": "./themes/Dark Monokai's Apprentice-color-theme.json"
       },
       {
         "label": "Monokai's Apprentice Material",
