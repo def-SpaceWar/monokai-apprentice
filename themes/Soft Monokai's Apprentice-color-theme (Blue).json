@@ -599,6 +599,13 @@
       "settings": {
         "foreground": "#EF7C2B"
       }
+    },
+    {
+      "name": "Hash C#",
+      "scope": ["punctuation.separator.hash.cs"],
+      "settings": {
+        "foreground": "#EB3D54"
+      }
     }
   ]
 }
