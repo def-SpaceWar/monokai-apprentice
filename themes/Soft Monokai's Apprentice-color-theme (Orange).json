@@ -187,7 +187,8 @@
       "scope": [
         "entity.name.module.js",
         "variable.import.parameter.js",
-        "variable.other.class.js"
+        "variable.other.class.js",
+        "meta.interpolation"
       ],
       "settings": {
         "foreground": "#EB3D54"
@@ -558,6 +559,44 @@
       "scope": ["markup.table"],
       "settings": {
         "foreground": "#ffffff"
+      }
+    },
+    {
+      "name": "C# Classes",
+      "scope": ["storage.type.cs", "inherit-class"],
+      "settings": {
+        "foreground": "#E7CE57"
+      }
+    },
+    {
+      "name": "C# Variables",
+      "scope": [
+        "entity.name.variable.field.cs",
+        "entity.name.variable.local.cs",
+        "entity.name.type.namespace.cs"
+      ],
+      "settings": {
+        "foreground": "#ffffff"
+      }
+    },
+    {
+      "name": "C# Keywords",
+      "scope": [
+        "keyword.other.class.cs",
+        "keyword.other.using.cs",
+        "keyword.other.get.cs",
+        "keyword.other.set.cs",
+        "keyword.other.struct.cs"
+      ],
+      "settings": {
+        "foreground": "#EB3D54"
+      }
+    },
+    {
+      "name": "Numeric Suffix",
+      "scope": ["numeric-suffix"],
+      "settings": {
+        "foreground": "#EF7C2B"
       }
     }
   ]
