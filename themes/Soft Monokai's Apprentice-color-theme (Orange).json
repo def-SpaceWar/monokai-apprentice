@@ -572,6 +572,7 @@
       "name": "C# Variables",
       "scope": [
         "entity.name.variable.field.cs",
+        "entity.name.variable.property.cs",
         "entity.name.variable.local.cs",
         "entity.name.type.namespace.cs"
       ],
