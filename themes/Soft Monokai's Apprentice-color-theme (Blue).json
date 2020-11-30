@@ -179,7 +179,14 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#EF7C2B"
+        "foreground": "#78BC65"
+      }
+    },
+    {
+      "name": "CSS Variables",
+      "scope": ["variable.css", "variable.argument.css"],
+      "settings": {
+        "foreground": "#E7CE57"
       }
     },
     {
@@ -243,6 +250,13 @@
       "scope": ["entity.other.attribute-name.class"],
       "settings": {
         "foreground": "#E7CE57"
+      }
+    },
+    {
+      "name": "CSS ID selector",
+      "scope": ["entity.other.attribute-name.id.css"],
+      "settings": {
+        "foreground": "#EF7C2B"
       }
     },
     {
